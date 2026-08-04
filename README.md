@@ -81,22 +81,6 @@
 
 ---
 
-## What I'm Building
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **REGITE Platform** | AI-powered site with live auth, animations & real-time data | Next.js · Supabase · GSAP |
-| **AI Automation Flows** | Self-running pipelines — no babysitting, no manual triggers | n8n · Python · Webhooks |
-| **Local LLM Stack** | Private AI on local hardware — zero cloud dependency | Ollama · LLaMA · llama.cpp |
-| **Automated Websites** | Pull live data, generate content on the fly — run forever | Vercel · GPT API · Supabase |
-| **AI Chatbots** | Multi-turn systems with memory, personality & live knowledge | LangChain · OpenAI · RAG |
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
