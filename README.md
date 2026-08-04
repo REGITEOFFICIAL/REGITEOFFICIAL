@@ -30,7 +30,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=REGITEOFFICIAL&color=b8ff00&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/REGITEOFFICIAL?style=for-the-badge&color=00d4ff&labelColor=111111&label=FOLLOWERS)
 
 </div>
