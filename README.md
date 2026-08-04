@@ -13,7 +13,7 @@
 <br/>
 
 <!-- TYPING ANIMATION - matching site's tone -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=620&height=36&lines=Full-Stack+Dev+%26+AI+Engineer;Building+AI+that+actually+works;Local+LLMs+%7C+Automation+%7C+Web+Platforms;Ship+fast.+Break+things.+Fix+them+faster.;Automated+Websites+that+run+forever;Open+for+collabs+%26+freelance" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=620&height=36&lines=Full-Stack+Dev+%26+AI+IoT;Building+AI+that+actually+works;Local+LLMs+%7C+Automation+%7C+Web+Platforms;Ship+fast.+Break+things.+Fix+them+faster.;Automated+Websites+that+run+forever;Open+for+collabs+%26+freelance" alt="Typing SVG"/>
 
 <br/>
 
